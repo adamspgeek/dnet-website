@@ -1,0 +1,11 @@
+email: arvinsalvador.official@gmail.com
+fullname: 'Arvin Salvador'
+title: 'System Admin'
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$OZfUyMwOsxblMWizefCvNOCGPbXhPoGloo4Qu5VwgfxnHEqcFM/ma
